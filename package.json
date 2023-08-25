@@ -1,5 +1,6 @@
 {
 	"author": "Eyad Almallah",
+	"description": "A project that does something awesome and will be cool",
 	"name": "fcc-learn-npm-package-json",
 	"dependencies": {
 		"express": "^4.14.0"
